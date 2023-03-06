@@ -1,3 +1,3 @@
 # iVoro
 
-Go to [openreview](https://openreview.net/forum?id=zJXg_Wmob03), then click Supplementary Material.
+Please go to [openreview](https://openreview.net/forum?id=zJXg_Wmob03), then click Supplementary Material.
