@@ -30,6 +30,14 @@ Go to the directory:
 cd MNIST
 ```
 
+**A. iVoro**
+
+**B. iVoro-D**
+
+**C. iVoro-AC/AI**
+
+**D. iVoro-L**
+
 ### Reference
 [ICLR'23](https://openreview.net/forum?id=zJXg_Wmob03)
 
