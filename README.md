@@ -1,5 +1,5 @@
 # iVoro
-**Progressive Voronoi Diagram Subdivision Enables Accurate Data-free Class-Incremental Learning**
+Official code for **Progressive Voronoi Diagram Subdivision Enables Accurate Data-free Class-Incremental Learning**, ICLR'23.
 
 ### Introduction
 The iVoro method is based on the idea of Voronoi Diagram subdivision of Computational Geometry.
@@ -13,6 +13,10 @@ The iVoro method is based on the idea of Voronoi Diagram subdivision of Computat
 </p>
 
 ### Reproducing the results
+
+Step 1. Training of the base model, please follow PASS (github).
+Step 2. Download the feature files.
+Google Drive
 
 ### Reference
 [ICLR'23](https://openreview.net/forum?id=zJXg_Wmob03)
