@@ -7,8 +7,8 @@ The iVoro method is based on the idea of Voronoi Diagram subdivision from Comput
   <img src="./img/iVoro-fig1.PNG" width="450">
 </p>
 
-**A**. Establish Voronoi Diagram based on base model.
-**B**. Insertion of a new class as a new Voronoi cell enables the minimal intervention to the overall structure.
+**A**. Establish Voronoi Diagram based on base model. \
+**B**. Insertion of a new class as a new Voronoi cell enables the minimal intervention to the overall structure. \
 **C**. Divide-and-conquer (a classical algorithm for Voronoi construction) efficiently introduce a batch of new classes into the system.
 
 
