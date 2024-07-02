@@ -29,6 +29,7 @@ Go to the directory:
 ```bash
 cd MNIST
 ```
+Then run analysis/CIFAR_voro.py in following order:
 
 **A. iVoro**
 
