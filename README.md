@@ -32,17 +32,12 @@ cd MNIST
 Then run analysis/CIFAR_voro.py in following order:
 
 **A. iVoro**
-
 **B. iVoro-D**
-
 **C. iVoro-AC/AI**
-
 **D. iVoro-L**
 
 ### Reference
 [ICLR'23](https://openreview.net/forum?id=zJXg_Wmob03)
 
-### Acknowledgments
-
-### Contact
-If you have any problem please [contact me](mailto:horsepurve@gmail.com).
+### Release
+See "Release" page for the codebase. Note that the raw code is provided as is, not cleaned and highly messy. If I had time, I would do some cleaning.
